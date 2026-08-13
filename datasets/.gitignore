@@ -4,3 +4,4 @@
 # Re-include the .gitignore file itself
 !.gitignore
 !.dockerignore
+!README.md
